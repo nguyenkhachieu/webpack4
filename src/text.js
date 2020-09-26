@@ -1,3 +1,3 @@
 export function writeToDcreen() {
-  document.write('hello webpack');
+  document.write('hello webpack !!');
 }
